@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://giadinhaphong.github.io/giadinhaphong/sitemap.xml
+Sitemap: https://giadinhaphong.github.io//sitemap.xml
