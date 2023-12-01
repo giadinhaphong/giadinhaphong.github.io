@@ -9,5 +9,31 @@ giscus_comments: true
 related_posts: true
 ---
 
-CAY TREN DA
-Bai tho cay tren da
+CÂY TRÊN ĐÁ
+
+Cá thích ăn giun  
+Không lên bờ được  
+Thèm cá dưới nước  
+Mèo chẳng biết bơi  
+Sống ở trên đời           
+Đâu ai hoàn hảo  
+Cớ chi phiền não  
+Mặc cảm tự ti  
+Sao phải so bì  
+Hơn thua được mất   
+Tài sản quý nhất  
+Là bản thân mình  
+Cha mẹ dưỡng sinh  
+Tâm hồn, nhân cách  
+Đời cho tri thức  
+Khôn lớn nên người  
+Xin cảm ơn đời  
+Những gì ta có  
+Dù trong gian khó  
+Vững bước đi lên  
+Những đóa hoa sen  
+Nở từ bùn đất  
+Đường dài xa cách  
+Mãi cũng tới nơi  
+Hạnh phúc mĩm cười  
+Những người nghị lực!  
