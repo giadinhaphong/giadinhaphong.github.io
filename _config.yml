@@ -259,7 +259,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['aphong'] # these tags will be displayed on the front page of your blog
-display_categories: ['tuoi-ao-xanh'] # these categories will be displayed on the front page of your blog
+display_categories: ['tuoi-ao-xanh', 'chum-tho-tho-duc'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
