@@ -7,9 +7,9 @@ first_name: Phong
 middle_name: A
 last_name: Tran
 email: tranaphong710@gmail.com
-description: tran-a-phong, a-phong, thoaphong, gia-dinh-a-phong
+description:
 footer_text:
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: tran-a-phong, a-phong, thoaphong, gia-dinh-a-phong  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
