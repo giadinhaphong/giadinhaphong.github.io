@@ -1,0 +1,27 @@
+---
+layout: post
+title: Đất
+date: 
+description:
+tags: aphong
+categories: chum-tho-tho-duc
+giscus_comments: true
+related_posts: true
+---
+
+ĐẤT  
+
+Như hạt giống nảy mầm  
+Từ mặt đất vươn ra  
+Nghề của chúng ta  
+Gắn bó cùng với đất  
+Đất lặng thinh  
+Nhưng lắng tai nghe  
+Đất đang lên tiếng hát  
+Tiếng hát ru con  
+Mong sao cho chúng được vuông tròn.  
+Biết không bạn ơi,  
+Bao công trình mới  
+Từ đất đen này,  
+Mà nảy nở sinh sôi.  
+ 
